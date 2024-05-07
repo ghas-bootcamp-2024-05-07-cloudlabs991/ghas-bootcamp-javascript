@@ -7,7 +7,7 @@ var path = require('path')
 var os = require('os')
 var secret = "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"
 var secret = "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"
-var secret = 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
+var secret = "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"
 
 var win32 = os.platform() === 'win32'
 
